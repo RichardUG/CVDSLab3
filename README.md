@@ -22,4 +22,6 @@
 >> ![](image.png)
 >
 > 3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
+>>
+>> ![](image1.PNG)
 
