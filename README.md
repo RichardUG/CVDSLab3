@@ -24,4 +24,6 @@
 > 3. Para cada clase de equivalencia, defina un caso de prueba específico, definiendo: parámetros de entrada y resultados esperados.
 >>
 >> ![](image1.PNG)
+>
+> 3. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
 
