@@ -17,3 +17,7 @@
 >> * Que los días de antelación sean menores a 0
 >> * Que la tarifa base sea menor o igual a 0
 
+> 2. En la siguiente tabla enumere un conjunto de clases de equivalencia que -según usted- creen una buena división del conjunto de datos de entrada de la función anterior:
+>>
+>> ![](image.png)
+
