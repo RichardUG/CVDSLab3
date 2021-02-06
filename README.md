@@ -10,3 +10,10 @@
 >> 3. UNDERAGE: Verficamos que la variable getAge < 18 AND getage > 0 que nos muestra que la persona esta por debajo de la edad requerida 
 >> 4. VALID: verificamos que la persona este viva, tenga una edad valida y este en una edad apropiada y que no sea no sea una persona duplicada
 >> 5. INVALID_AGE: Verificamos que la variable getAge < 0 AND getAge > 120 lo cual nos indica que es una edad invalida
+
+### EJERCICIO "DESCUENTO DE TARIFAS" REALIZAR DISEÑO DE PRUEBAS
+> 1. De acuerdo con lo indicado, y teniendo en cuenta que NO hay precondiciones, en qué casos se debería arrojar una excepción de tipo ExcepcionParametrosInvalidos?. Agregue esto a la especificación.
+>> * Que la edad del pasajero sea menor a 0 o superior a 110
+>> * Que los días de antelación sean menores a 0
+>> * Que la tarifa base sea menor o igual a 0
+
