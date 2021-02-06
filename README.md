@@ -28,4 +28,8 @@
 > 4. A partir de las clases de equivalencia identificadas en el punto 2, identifique las condiciones límite o de frontera de las mismas.
 >>
 >> ![](image2.PNG)
+>
+> 5. Para cada una de las condiciones de frontera anteriores, defina casos de prueba específicos.
+>>
+>> ![](image3.PNG)
 
